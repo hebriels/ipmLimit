@@ -1,5 +1,5 @@
-# ipmLimit <img src="http://ipmdemo.samaprof.ru/assets/images/logos/logo_icon_white.png" height="30">
-<p>Демо страница: http://ipmdemo.samaprof.ru</p>
+# ipmLimit <img src="http://ipmdemo.s-ama.ru/assets/images/logos/logo_icon_white.png" height="30">
+<p>Демо страница: http://ipmdemo.s-ama.ru</p>
 <p>Логин: <span>demo@demo.ru</span></p>
 <p>Пароль: 123456</p>
 <h2>Система контроля проектов, согласование счетов онлайн.</h2>
@@ -15,4 +15,4 @@
 Простое создание проектов с привязкой к счетам. Добавление дополнений к проектам на любой стадии. Аналитика по проекту
 в разрезе статуса счетов, в работе, отказные, согласованные и оплаченные. Разделение проектов на, внутренние проекты для
 вашей компании, и внешние проекты для удобного анализа трат.
-<img src="http://ipmdemo.samaprof.ru/assets/images/logos/annot.jpg" width="1000">
+<img src="http://ipmdemo.s-ama.ru/assets/images/logos/annot.jpg" width="1000">
